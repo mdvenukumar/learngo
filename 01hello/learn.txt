@@ -1,0 +1,11 @@
+main() is the entry point in execution
+
+When you run this Go program, the Go compiler compiles the code into machine code (or bytecode, in some cases) suitable for the target platform.
+
+The compiled program is then executed by the Go runtime environment.
+
+The main() function is called automatically by the Go runtime when the program starts.
+
+Inside main(), fmt.Println() function is called to print the standard output (usually the console).
+
+Finally, the program terminates, and the execution ends.
